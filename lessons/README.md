@@ -14,8 +14,10 @@
 
 6. [Bash](./bash/practice.md)
 
-7. [Monitoring](./monitoring/practice.md)
+7. [Python](./python/practice.md)
 
-8. [DevOPS](./devops/practice.md)
+8. [Monitoring](./monitoring/practice.md)
 
-9. [Backup](./backup/practice.md)
+9. [DevOPS](./devops/practice.md)
+
+10. [Backup](./backup/practice.md)
