@@ -44,21 +44,21 @@ My Roadmap for Sysadmin / DevOPS / SRE
 
 
 1) **ОС Windows Server**
-   1. Установка (драйвера, оптимизации и тд)
-   1. Кастомизация образов (DISM)
-   1. Troubleshooting
-   1. Реестр (общая информация)
+   1. [Установка](https://computingforgeeks.com/install-windows-server-2019/) ([драйвера](https://woshub.com/integrate-drivers-to-windows-install-media/), оптимизации и тд)
+   1. Кастомизация образов ([DISM](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/mount-and-modify-a-windows-image-using-dism?view=windows-11))
+   1. [Troubleshooting](https://learn.microsoft.com/en-us/troubleshoot/windows-server/welcome-windows-server)
+   1. [Реестр](https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users) (общая информация)
    1. Удаленное управление
-      1. WMI
-      1. Powershell
-      1. winRM
-      1. admin center
-   1. Файловые системы (FAT, NTFS, ReFS), размер кластера фс, дефрагментация
+      1. [WMI](https://habr.com/ru/articles/70806/)
+      1. [Powershell](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.3)
+      1. [winRM](https://winitpro.ru/index.php/2012/01/31/kak-aktivirovat-windows-remote-management-s-pomoshhyu-gruppovoj-politiki/)
+      1. [admin center](https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/use/get-started?tabs=add-one)
+   1. Файловые системы (FAT, NTFS, ReFS), [размер кластера фс](https://www.white-windows.ru/chto-takoe-razmer-klastera-zhyostkogo-diska-i-kak-ego-izmenit-bez-formatirovaniya-razdela/), [дефрагментация](https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%B4%D0%B8%D1%81%D0%BA%D0%B0)
    1. Серверные роли
-      1. Файловый сервер
-      1. DNS/DHCP
-      1. AD/DC
-      1. CA
+      1. [Файловый сервер](https://www.server-world.info/en/note?os=Windows_Server_2019&p=smb&f=1)
+      1. [DNS](https://www.server-world.info/en/note?os=Windows_Server_2019&p=dns&f=1)/[DHCP](https://www.server-world.info/en/note?os=Windows_Server_2019&p=dhcp&f=1)
+      1. [AD/DC](https://www.server-world.info/en/note?os=Windows_Server_2019&p=active_directory&f=1)
+      1. [CA](https://thesecmaster.com/step-by-step-procedure-to-set-up-a-standalone-root-ca-on-windows-server/)
       1. IIS
       1. KMS
       1. Remote Access
