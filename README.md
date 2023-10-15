@@ -187,7 +187,15 @@ My Roadmap for Sysadmin / DevOPS / SRE
       1. Раздать права пользователю из другого домена
       1. Настроить бэкап 
 
-
+1) **Windows кластеризация**
+   1. Настройка службы
+   1. Настройка ролей
+   1. Настроить роль файлового сервера
+   1. SMB 3 протокол
+   1. Настройка IIS и тд?
+   1. Кластерные FS
+   1. Растянутый кластер
+   1. Hyper V кластер
 
 
 
@@ -270,24 +278,16 @@ My Roadmap for Sysadmin / DevOPS / SRE
    1. WAL
    1. Перенос VM между гипервизорами.
 
-1) **Веб. IIS**
+1) **Веб. IIS / nginx / haproxy**
    1. Протоколы HTTP \ [HTTPS](https://www.ssllabs.com/ssltest/analyze.html?d=ya.ru&latest)
-   1. Настройка IIS
+   1. Настройка IIS / nginx / haproxy
    1. Кластеризация IIS
    1. Типы редиректов
-   1. Реверс прокси
+   1. Реверс прокси на IIS / nginx / haproxy
    1. CGI
-   1. Аутентификация 
+   1. Аутентификация (basic/kerberos/etc)
 
-1) **Windows кластеризация**
-   1. Настройка службы
-   1. Настройка ролей
-   1. Настроить роль файлового сервера
-   1. SMB 3 протокол
-   1. Настройка IIS и тд?
-   1. Кластерные FS
-   1. Растянутый кластер
-   1. Hyper V кластер
+
 
 
 
@@ -303,6 +303,8 @@ My Roadmap for Sysadmin / DevOPS / SRE
       1. Работа с REST API
       1. Импорт/экспорт данных
       1. Удаленное управление 
+
+
 1) **Мониторинг**
    1. Системные метрики
       1. CPU
@@ -311,29 +313,48 @@ My Roadmap for Sysadmin / DevOPS / SRE
       1. IO
       1. NET
    1. Системы мониторинга
-      1. SCOM
-      1. PRTG
+      1. Grafana
       1. Zabbix
       1. Prom
-      1. Telegraf + InxfulDB + Grafana
+      1. Telegraf
    1. Бизнес мониторинг
 
-1) **Системы сборки**
-   1. GIT
-   1. IDE (VC Code, Pycharm)
-   1. Github \ Bitbucket
-   1. Gitlab
-      1. Поднял (VM либо контейнер)
-   1. Teamcity
-      1. Поднял (VM либо контейнер)
-   1. Сборка контейнера, примеры и тд
-1) Систему управления конфигурациями
-   1. Ansible
-   1. Puppet
-   1. DSC
-   1. GPO
 
 
+
+
+
+
+
+1) **DevOPS**
+   1. [GIT](https://git-scm.com/docs/gittutorial)
+      1. IDE (VC Code, Pycharm)
+   1. CI/CD системы
+      1. Github \ Bitbucket
+      1. Gitlab
+      1. Teamcity
+   1. CI/CD системы (Сборка и упаковка)
+      1. [Gitlab](https://docs.gitlab.com/ee/ci/quick_start/)   
+      1. [Gitlab docker](https://docs.gitlab.com/ee/ci/docker/using_docker_build.html)
+    1. Контейнеризация (Docker, Kubernetes)
+      1. [Docker](https://docker-curriculum.com/)
+      1. [Docker Compose](https://docs.docker.com/compose/gettingstarted/)
+      1. [Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+    1. Системы управления конфигурациями
+      1. [Ansible](https://docs.ansible.com/ansible/latest/getting_started/index.html)
+      1. [Puppet](https://www.digitalocean.com/community/tutorial-series/how-to-use-puppet-to-manage-your-servers-2)
+      1. [DSC](https://learn.microsoft.com/en-us/powershell/dsc/getting-started/wingettingstarted?view=dsc-1.1)
+      1. [GPO](https://www.pcwdld.com/group-policy-management)
+    1. Мониторинг и логирование
+      1. [ELK](https://logz.io/learn/complete-guide-elk-stack/#installing-elk)
+      1. [Prometheus](https://prometheus.io/docs/prometheus/latest/getting_started/)
+      1. [Prometheus Alerts](https://prometheus.io/docs/alerting/latest/configuration/)
+      1. [Grafana](https://grafana.com/tutorials/grafana-fundamentals/)
+    1. IAC
+    1. SEC    
+      1. [Ansible vault](https://www.digitalocean.com/community/tutorials/how-to-use-vault-to-protect-sensitive-ansible-data)    
+      1. [hashicorp vault](https://www.digitalocean.com/community/tutorials/how-to-securely-manage-secrets-with-hashicorp-vault-on-ubuntu-20-04)    
+      1. [Ansible use hashicorp vault](https://elatov.github.io/2022/01/using-hashicorp-vault-with-ansible/)
 
 
 
@@ -387,8 +408,6 @@ My Roadmap for Sysadmin / DevOPS / SRE
 
 
 1) Инвентаризация 
-1) Безопасность
-   1. логирование
 
 
 
