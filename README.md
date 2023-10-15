@@ -337,24 +337,24 @@ My Roadmap for Sysadmin / DevOPS / SRE
       1. [Gitlab](https://docs.gitlab.com/ee/ci/quick_start/)   
       1. [Gitlab docker](https://docs.gitlab.com/ee/ci/docker/using_docker_build.html)
     1. Контейнеризация (Docker, Kubernetes)
-      1. [Docker](https://docker-curriculum.com/)
-      1. [Docker Compose](https://docs.docker.com/compose/gettingstarted/)
-      1. [Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+       1. [Docker](https://docker-curriculum.com/)
+       1. [Docker Compose](https://docs.docker.com/compose/gettingstarted/)
+       1. [Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
     1. Системы управления конфигурациями
-      1. [Ansible](https://docs.ansible.com/ansible/latest/getting_started/index.html)
-      1. [Puppet](https://www.digitalocean.com/community/tutorial-series/how-to-use-puppet-to-manage-your-servers-2)
-      1. [DSC](https://learn.microsoft.com/en-us/powershell/dsc/getting-started/wingettingstarted?view=dsc-1.1)
-      1. [GPO](https://www.pcwdld.com/group-policy-management)
+       1. [Ansible](https://docs.ansible.com/ansible/latest/getting_started/index.html)
+       1. [Puppet](https://www.digitalocean.com/community/tutorial-series/how-to-use-puppet-to-manage-your-servers-2)
+       1. [DSC](https://learn.microsoft.com/en-us/powershell/dsc/getting-started/wingettingstarted?view=dsc-1.1)
+       1. [GPO](https://www.pcwdld.com/group-policy-management)
     1. Мониторинг и логирование
-      1. [ELK](https://logz.io/learn/complete-guide-elk-stack/#installing-elk)
-      1. [Prometheus](https://prometheus.io/docs/prometheus/latest/getting_started/)
-      1. [Prometheus Alerts](https://prometheus.io/docs/alerting/latest/configuration/)
-      1. [Grafana](https://grafana.com/tutorials/grafana-fundamentals/)
+       1. [ELK](https://logz.io/learn/complete-guide-elk-stack/#installing-elk)
+       1. [Prometheus](https://prometheus.io/docs/prometheus/latest/getting_started/)
+       1. [Prometheus Alerts](https://prometheus.io/docs/alerting/latest/configuration/)
+       1. [Grafana](https://grafana.com/tutorials/grafana-fundamentals/)
     1. IAC
     1. SEC    
-      1. [Ansible vault](https://www.digitalocean.com/community/tutorials/how-to-use-vault-to-protect-sensitive-ansible-data)    
-      1. [hashicorp vault](https://www.digitalocean.com/community/tutorials/how-to-securely-manage-secrets-with-hashicorp-vault-on-ubuntu-20-04)    
-      1. [Ansible use hashicorp vault](https://elatov.github.io/2022/01/using-hashicorp-vault-with-ansible/)
+       1. [Ansible vault](https://www.digitalocean.com/community/tutorials/how-to-use-vault-to-protect-sensitive-ansible-data)    
+       1. [hashicorp vault](https://www.digitalocean.com/community/tutorials/how-to-securely-manage-secrets-with-hashicorp-vault-on-ubuntu-20-04)    
+       1. [Ansible use hashicorp vault](https://elatov.github.io/2022/01/using-hashicorp-vault-with-ansible/)
 
 
 
