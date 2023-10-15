@@ -36,13 +36,6 @@ My Roadmap for Sysadmin / DevOPS / SRE
 
 
 
-
-
-
-
-
-
-
 1) **ОС Windows Server**
    1. [Установка](https://computingforgeeks.com/install-windows-server-2019/) ([драйвера](https://woshub.com/integrate-drivers-to-windows-install-media/), оптимизации и тд)
    1. Кастомизация образов ([DISM](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/mount-and-modify-a-windows-image-using-dism?view=windows-11))
@@ -80,9 +73,6 @@ My Roadmap for Sysadmin / DevOPS / SRE
 
 
 
-
-
-
 1) **Сеть и связанные службы**
    1. Какие сети бывают?
    1. Маска подсети
@@ -106,18 +96,6 @@ My Roadmap for Sysadmin / DevOPS / SRE
    1. Firewall
    1. QOS
    1. IPSEC
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -148,17 +126,6 @@ My Roadmap for Sysadmin / DevOPS / SRE
 
 
 
-
-
-
-
-
-
-
-
-
-
-1) **Серверные роли AD, GPO, FS**
 
 
 
