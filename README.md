@@ -1,8 +1,18 @@
-# my-sysadmin-devops-sre-roadmap
-My Roadmap for Sysadmin / DevOPS / SRE
+# My Roadmap for Sysadmin / DevOPS / SRE
 
-[TOC]
 
+![My Roadmap for Sysadmin / DevOPS / SRE](./roadmap.png)
+
+Данный репозиторий содержит Roadmap для обучения по следующим темам:
+
+* Базовая информация по серверному оборудованию
+* Работа с системама виртуализации
+* Работа с сетями
+* Системное администрирование Windows / Linux
+* DevOPS практики и инструменты
+* Автоматизация и написание скриптов на Powershell / Bash / Python
+* Работа с системами мониторинга
+* Работа с системами резервного копирования
 
 1) **Железо и серверное оборудование**
    1. Устройство ПК
