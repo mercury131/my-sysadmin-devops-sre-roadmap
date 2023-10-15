@@ -191,9 +191,39 @@ My Roadmap for Sysadmin / DevOPS / SRE
 
 
 
+1) **ОС Linux**
+   1. Установка и настройка Linux
+      1. [Отличия deb based от rpm based](https://linuxgenie.net/difference-between-linux-deb-vs-rpm/)
+      1. Установка Linux
+        1. [ubuntu](https://ubuntu.com/server/docs/installation)
+        1. [RHEL based](https://docs.centos.org/en-US/centos/install-guide/Simple_Installation/)
+      1. Настройка основных параметров системы
+        1. [изменить hostname](https://www.tecmint.com/set-change-hostname-in-centos-7/)
+        1. [изменить пароль root](https://www.cyberciti.biz/faq/how-to-change-root-password-on-centos-linux/)
+        1. [изменить часовой пояс](https://linuxize.com/post/how-to-set-or-change-timezone-on-centos-7/)
+        1. [настроить сеть](https://phoenixnap.com/kb/configure-centos-network-settings)
+      1. Работа в командной строке
+        1. [Основные команды Linux](https://selectel.ru/blog/basic-linux-commands/)   
+        1. [Управление файлами и папками](https://selectel.ru/blog/tutorials/files-and-directories-in-linux/)     
+        1. [Редактирование текстовых файлов](https://www.hostwinds.ru/tutorials/how-to-edit-files-from-linux-shell)     
+        1. [Настройка прав доступа к файлам](https://habr.com/ru/articles/469667/)     
+      1. Пакетный менеджер (Установка и удаление программ/Обновление системы/Поиск и установка пакетов)
+        1. [apt](https://linuxize.com/post/how-to-use-apt-command/)  
+        1. [yum](https://access.redhat.com/solutions/9934)  
+        1. [dnf](https://docs.fedoraproject.org/en-US/quick-docs/dnf/) 
+        1. [zypper](https://documentation.suse.com/sles/12-SP5/html/SLES-all/cha-sw-cl.html)  
+      1. Работа с пользователями и группами
+        1. [Создание и управление пользователями](https://www.cyberciti.biz/faq/create-a-new-user-account-in-centos-7-8-linux/)  
+        1. Назначение прав доступа пользователю
+            1. [sudo](https://linuxize.com/post/how-to-add-user-to-sudoers-in-centos/) 
+            1. [file permissions](https://linuxhint.com/give-user-folder-permission-linux/)
+        1. [Создание и управление группами](https://linuxize.com/post/how-to-create-groups-in-linux/)                          
 
-
-
+      1. Системный мониторинг и администрирование
+        1. [] 
+        1. [] 
+        1. [] 
+        1. []                         
 
 
 
