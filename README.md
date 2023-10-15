@@ -235,9 +235,17 @@ My Roadmap for Sysadmin / DevOPS / SRE
          1. Фаерволл и безопасность сети
             1. [firewalld](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8)
             1. [ufw](https://phoenixnap.com/kb/configure-firewall-with-ufw-on-ubuntu)
+      1. Автоматизация задач
+         1. [Создание скриптов на языке командной строки](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)                        
+         1. [Планирование задач с помощью Cron](https://opensource.com/article/17/11/how-use-cron-linux) 
+         1. [Использование утилиты "at" для задач по расписанию](https://redos.red-soft.ru/base/manual/utilites/at-atd/) 
+         1. [Использование systemd-timers для задач по расписанию](https://opensource.com/article/20/7/systemd-timers) 
 
-
-
+      1. Защита системы
+         1. [использование ssh ключей](https://www.vultr.com/docs/centos-8-setting-up-access-with-ssh/)                        
+         1. [отключение root](https://www.tecmint.com/disable-root-login-in-linux/) 
+         1. [SElinux](https://wiki.centos.org/HowTos(2f)SELinux.html) 
+         1. [APParmor](https://ubuntu.com/server/docs/security-apparmor) 
 
 
 
