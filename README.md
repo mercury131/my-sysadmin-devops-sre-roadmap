@@ -220,10 +220,21 @@ My Roadmap for Sysadmin / DevOPS / SRE
          1. [Создание и управление группами](https://linuxize.com/post/how-to-create-groups-in-linux/)                          
 
       1. Системный мониторинг и администрирование
-        1. [] 
-        1. [] 
-        1. [] 
-        1. []                         
+        1. [Работа с процессами](https://www.opennet.ru/docs/RUS/lnx_process/process2.html) 
+            1. [как работают процессы](https://habr.com/ru/articles/423049/)
+        1. [Работа с сервисами и демонами](https://habr.com/ru/companies/slurm/articles/255845/) 
+        1. Управление дисками и разделами
+            1. [общая информация о партициях](https://docs.centos.org/en-US/centos/install-guide/Partitions-x86/)        
+            1. [создать партиции](https://docs.centos.org/en-US/centos/install-guide/Partitions-x86/) 
+                1. [parted](https://www.thegeekdiary.com/how-to-create-a-partition-using-parted-command/)   
+                1. [fdisk](https://www.digitalocean.com/community/tutorials/create-a-partition-in-linux)
+            1. [LVM](https://linuxhint.com/install_lvm_centos/)
+      1. Сетевая настройка
+         1. [настроить сеть](https://phoenixnap.com/kb/configure-centos-network-settings)                        
+         1. [Настройка DNS](https://bitlaunch.io/blog/how-to-edit-dns-servers-in-centos/)      
+         1. Фаерволл и безопасность сети
+            1. [firewalld](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8)
+            1. [ufw](https://phoenixnap.com/kb/configure-firewall-with-ufw-on-ubuntu)
 
 
 
